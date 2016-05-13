@@ -1,3 +1,4 @@
+require_relative 'pro_polish.rb'
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
