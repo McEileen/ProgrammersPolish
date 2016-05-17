@@ -11,7 +11,7 @@ COLORS = ["aubergine", "apple", "auburn", "blush pink", "banana yellow", "badass
   end
 
   def print_color
-    "#{@ruby_term} " + "#{@color}"
+    p "#{@ruby_term} " + "#{@color}"
   end
 
 end
