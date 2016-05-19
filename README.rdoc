@@ -1,4 +1,4 @@
-== Programmers' Polish
+== Programmers' Polish (@ProgPolish)
 
 Twitter bot that tweets out random nail polish colors (proc peach, TDD blue) based on programming terms.
 
